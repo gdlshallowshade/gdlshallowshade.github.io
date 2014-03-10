@@ -4,6 +4,6 @@ pygments: true
 safe: true
 lsi: false
 #source:
-#source: ./_site
+source: ./_site
 
 
