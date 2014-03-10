@@ -5,5 +5,5 @@ safe: true
 lsi: false
 #source:
 source: ./_site
-
+destination: .
 
